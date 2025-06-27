@@ -132,14 +132,3 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 
-
-
-
-
-
-
-
-
-
-h      h      h      h      h      
-
